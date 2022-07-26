@@ -1,0 +1,20 @@
+# Celebritie Photos Rating Application
+
+
+BACK-END
+
+Functionality:
+- Admin Upload Photo of a celebrity
+- User rate the photo out of 5
+
+
+TODO
+- DONE Create Celebrity model
+- DONE Create Photo model
+- DONE Create Rating model
+- DONE Create Celebrity adding functionality
+- DONE Create a specific Celebrity Photo adding functionality
+- DONE Display List of Celebrities
+- DONE Display List of Photos of a particular celebrity
+- DONE Rate a specific Photo
+- DONE Display ratings for a specific photo
